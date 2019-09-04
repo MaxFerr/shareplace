@@ -43,7 +43,7 @@
       ],
       "config":{
         "googleMaps":{
-        "apiKey":"AIzaSyBtcMIPnlONRPx0VZV8_WHiPWpczcdFKyA"
+        "apiKey":"process.ENV.key"
       }
     }      
     }
